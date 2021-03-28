@@ -1,6 +1,6 @@
 ﻿# chaoxing_Multi
 
-# --20210323更新版本已修复此前学习通更新的BUG，可正常使用--
+# 注意:此版本为多用户单课程多开版本，而非多课程多开。
 
 https://github.com/xz454867105/chaoxing_Multi.git
 
